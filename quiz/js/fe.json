@@ -1,0 +1,866 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "question": "น่าเบื่อ",
+      "correct_answer": "dull",
+      "incorrect_answers": [
+        "hilarious"
+      ]
+    },
+    {
+      "question": "ตลกมาก ๆ",
+      "correct_answer": "hilarious",
+      "incorrect_answers": [
+        "dull"
+      ]
+    },
+    {
+      "question": "คู่",
+      "correct_answer": "couple",
+      "incorrect_answers": [
+        "useless"
+      ]
+    },
+    {
+      "question": "ไร้ประโยชน์",
+      "correct_answer": "useless",
+      "incorrect_answers": [
+        "couple"
+      ]
+    },
+    {
+      "question": "กำจัดออก",
+      "correct_answer": "killed off",
+      "incorrect_answers": [
+        "voted off"
+      ]
+    },
+    {
+      "question": "ปลดออก",
+      "correct_answer": "voted off",
+      "incorrect_answers": [
+        "killed off"
+      ]
+    },
+    {
+      "question": "เป็นสาวก",
+      "correct_answer": "to be a fan of",
+      "incorrect_answers": [
+        "to be in tears"
+      ]
+    },
+    {
+      "question": "น้ำตาคลอ",
+      "correct_answer": "to be in tears",
+      "incorrect_answers": [
+        "interviewed"
+      ]
+    },
+    {
+      "question": "ตึงเครียด",
+      "correct_answer": "tense",
+      "incorrect_answers": [
+        "compete"
+      ]
+    },
+    {
+      "question": "นำไปสู่",
+      "correct_answer": "leading to ",
+      "incorrect_answers": [
+        "amazing"
+      ]
+    },
+    {
+      "question": "ปริมาณ",
+      "correct_answer": "quantity",
+      "incorrect_answers": [
+        "quality"
+      ]
+    },
+    {
+      "question": "ความหลากหลาย",
+      "correct_answer": "variety",
+      "incorrect_answers": [
+        "different"
+      ]
+    },
+    {
+      "question": "เสนอเพื่อให้พิจารณา",
+      "correct_answer": "to be on offer",
+      "incorrect_answers": [
+        "professional"
+      ]
+    },
+    {
+      "question": "ดึงดูด",
+      "correct_answer": "attracted",
+      "incorrect_answers": [
+        "previously"
+      ]
+    },
+    {
+      "question": "ชักชวน",
+      "correct_answer": "persuaded",
+      "incorrect_answers": [
+        "because"
+      ]
+    },
+    {
+      "question": "โอกาส",
+      "correct_answer": "opportunity",
+      "incorrect_answers": [
+        "to be on offer"
+      ]
+    },
+    {
+      "question": "ไว้วางใจ",
+      "correct_answer": "relied on",
+      "incorrect_answers": [
+        "medical"
+      ]
+    },
+    {
+      "question": "แบ่งออกเป็น",
+      "correct_answer": "cut up into",
+      "incorrect_answers": [
+        "section"
+      ]
+    },
+    {
+      "question": "หยิบ",
+      "correct_answer": "to pick up",
+      "incorrect_answers": [
+        "explain"
+      ]
+    },
+    {
+      "question": "ทดลอง",
+      "correct_answer": "experiment",
+      "incorrect_answers": [
+        "complex"
+      ]
+    },
+    {
+      "question": "ซับซ้อน",
+      "correct_answer": "complex",
+      "incorrect_answers": [
+        "expect"
+      ]
+    },
+    {
+      "question": "สารคดี",
+      "correct_answer": "documentary",
+      "incorrect_answers": [
+        "technology"
+      ]
+    },
+    {
+      "question": "อย่างเห็นได้ชัด",
+      "correct_answer": "apparently",
+      "incorrect_answers": [
+        "survey"
+      ]
+    },
+    {
+      "question": "มีผล",
+      "correct_answer": "influence",
+      "incorrect_answers": [
+        "research"
+      ]
+    },
+    {
+      "question": "อย่างเพิ่มขี้น",
+      "correct_answer": "increasingly",
+      "incorrect_answers": [
+        "affecting"
+      ]
+    },
+    {
+      "question": "ต่ำกว่า",
+      "correct_answer": "below",
+      "incorrect_answers": [
+        "personally"
+      ]
+    },
+    {
+      "question": "สำรับ",
+      "correct_answer": "recipe",
+      "incorrect_answers": [
+        "fixed"
+      ]
+    },
+    {
+      "question": "มีแนวโน้ม",
+      "correct_answer": "tend",
+      "incorrect_answers": [
+        "awful"
+      ]
+    },
+    {
+      "question": "บางที",
+      "correct_answer": "perhaps",
+      "incorrect_answers": [
+        "middle"
+      ]
+    },
+    {
+      "question": "พิจารณา",
+      "correct_answer": "consider",
+      "incorrect_answers": [
+        "surprising"
+      ]
+    },
+    {
+      "question": "เพิ่มขี้น",
+      "correct_answer": "going up",
+      "incorrect_answers": [
+        "trend"
+      ]
+    },
+    {
+      "question": "คำแนะนำ",
+      "correct_answer": "recommendation",
+      "incorrect_answers": [
+        "suggested"
+      ]
+    },
+    {
+      "question": "ช่างทำผม",
+      "correct_answer": "hairdresser",
+      "incorrect_answers": [
+        "mechanic"
+      ]
+    },
+    {
+      "question": "ข่างกล",
+      "correct_answer": "mechanic",
+      "incorrect_answers": [
+        "cleaner"
+      ]
+    },
+    {
+      "question": "ตรงเวลา",
+      "correct_answer": "on time",
+      "incorrect_answers": [
+        "mess"
+      ]
+    },
+    {
+      "question": "สิ่งสกปรก",
+      "correct_answer": "mess",
+      "incorrect_answers": [
+        "efficient"
+      ]
+    },
+    {
+      "question": "ซึ่งมีประสิทธิภาพ",
+      "correct_answer": "efficient",
+      "incorrect_answers": [
+        "reasonable"
+      ]
+    },
+    {
+      "question": "สมเหตุสมผล",
+      "correct_answer": "reasonable",
+      "incorrect_answers": [
+        "convenient"
+      ]
+    },
+    {
+      "question": "สะดวก",
+      "correct_answer": "convenient",
+      "incorrect_answers": [
+        "trust"
+      ]
+    },
+    {
+      "question": "เชื่อถือได้",
+      "correct_answer": "reliable",
+      "incorrect_answers": [
+        "exact"
+      ]
+    },
+    {
+      "question": "พอดีเป๊ะ",
+      "correct_answer": "exact",
+      "incorrect_answers": [
+        "install"
+      ]
+    },
+    {
+      "question": "เปลี่ยนยางแบน",
+      "correct_answer": "to replace a flat tyre",
+      "incorrect_answers": [
+        "to assess the damage"
+      ]
+    },
+    {
+      "question": "ประเมินความเสียหาย",
+      "correct_answer": "to assess the damage",
+      "incorrect_answers": [
+        "to assess one's finess"
+      ]
+    },
+    {
+      "question": "ทดสอบสมรรถภาพร่างกาย",
+      "correct_answer": "to assess one's finess",
+      "incorrect_answers": [
+        "to assess one's strengths and weaknesses"
+      ]
+    },
+    {
+      "question": "ประเมิณจุดแข็งและจุดอ่อน",
+      "correct_answer": "to assess one's strengths and weaknesses",
+      "incorrect_answers": [
+        "to fix a pipe"
+      ]
+    },
+    {
+      "question": "ซ่อมท่อน้ำ",
+      "correct_answer": "to fix pipe",
+      "incorrect_answers": [
+        "to replace one's passport"
+      ]
+    },
+    {
+      "question": "ซ่อมเฟืองท้ายรถ",
+      "correct_answer": "to fix the gears on one's car",
+      "incorrect_answers": [
+        "to fix a broken light"
+      ]
+    },
+    {
+      "question": "ทำเล็บ",
+      "correct_answer": "to do one's nails",
+      "incorrect_answers": [
+        "to do one's hair"
+      ]
+    },
+    {
+      "question": "ดูอาการบาดเจ็บ",
+      "correct_answer": "to look at the injury",
+      "incorrect_answers": [
+        "to look at what's causing it"
+      ]
+    },
+    {
+      "question": "ดูสิ่งที่ก่อเหตุ",
+      "correct_answer": "to look at what's causing it",
+      "incorrect_answers": [
+        "to do one's hair"
+      ]
+    },
+    {
+      "question": "ใช้เวลา",
+      "correct_answer": "spend",
+      "incorrect_answers": [
+        "on time"
+      ]
+    },
+    {
+      "question": "พาดหัวข้อ",
+      "correct_answer": "headline news",
+      "incorrect_answers": [
+        "business"
+      ]
+    },
+    {
+      "question": "สิ่งแวดล้อม",
+      "correct_answer": "environment",
+      "incorrect_answers": [
+        "opinion"
+      ]
+    },
+    {
+      "question": "ความคิดเห็น",
+      "correct_answer": "opinion",
+      "incorrect_answers": [
+        "polities"
+      ]
+    },
+    {
+      "question": "การเมือง",
+      "correct_answer": "polities",
+      "incorrect_answers": [
+        "เหี้ยตู่"
+      ]
+    },
+    {
+      "question": "กำไร",
+      "correct_answer": "profit",
+      "incorrect_answers": [
+        "drop"
+      ]
+    },
+    {
+      "question": "ลดลง",
+      "correct_answer": "drop",
+      "incorrect_answers": [
+        "pilot"
+      ]
+    },
+    {
+      "question": "นัดกันหยุดงาน",
+      "correct_answer": "to go on strike",
+      "incorrect_answers": [
+        "peace"
+      ]
+    },
+    {
+      "question": "ความสงบ",
+      "correct_answer": "peace",
+      "incorrect_answers": [
+        "claim"
+      ]
+    },
+    {
+      "question": "การพัฒนา",
+      "correct_answer": "breakthrough",
+      "incorrect_answers": [
+        "process"
+      ]
+    },
+    {
+      "question": "อ้าง",
+      "correct_answer": "claim",
+      "incorrect_answers": [
+        "hit"
+      ]
+    },
+    {
+      "question": "การบำบัด",
+      "correct_answer": "treatment",
+      "incorrect_answers": [
+        "injury"
+      ]
+    },
+    {
+      "question": "อาการบาดเจ็บ",
+      "correct_answer": "injury",
+      "incorrect_answers": [
+        "chance"
+      ]
+    },
+    {
+      "question": "โอกาส",
+      "correct_answer": "chance",
+      "incorrect_answers": [
+        "scandal"
+      ]
+    },
+    {
+      "question": "เรื่องอื้อฉาว",
+      "correct_answer": "scandal",
+      "incorrect_answers": [
+        "hit"
+      ]
+    },
+    {
+      "question": "โจมตี",
+      "correct_answer": "hit",
+      "incorrect_answers": [
+        "government"
+      ]
+    },
+    {
+      "question": "หวังดีเสมอ",
+      "correct_answer": "to hit the team's hopes",
+      "incorrect_answers": [
+        "found guilty of "
+      ]
+    },
+    {
+      "question": "ตัดสินมีความผิด",
+      "correct_answer": "found guilty of ",
+      "incorrect_answers": [
+        "to decide a sentence"
+      ]
+    },
+    {
+      "question": "ตัดสินจำคุก",
+      "correct_answer": "to decide a sentence",
+      "incorrect_answers": [
+        "union"
+      ]
+    },
+    {
+      "question": "สหภาพแรงงาน",
+      "correct_answer": "union",
+      "incorrect_answers": [
+        "staff"
+      ]
+    },
+    {
+      "question": "กำจัด",
+      "correct_answer": "to get rid of",
+      "incorrect_answers": [
+        "to keep out of "
+      ]
+    },
+    {
+      "question": "แนะนำ",
+      "correct_answer": "advised",
+      "incorrect_answers": [
+        "president"
+      ]
+    },
+    {
+      "question": "ถอยออกห่าง",
+      "correct_answer": "to keep out of",
+      "incorrect_answers": [
+        "move on"
+      ]
+    },
+    {
+      "question": "ยารักษาโรค",
+      "correct_answer": "drug",
+      "incorrect_answers": [
+        "discase"
+      ]
+    },
+    {
+      "question": "โรคภัย",
+      "correct_answer": "discase",
+      "incorrect_answers": [
+        "outright"
+      ]
+    },
+    {
+      "question": "ทันที",
+      "correct_answer": "outright",
+      "incorrect_answers": [
+        "weather"
+      ]
+    },
+    {
+      "question": "ซีด",
+      "correct_answer": "pale",
+      "incorrect_answers": [
+        "nasty cut"
+      ]
+    },
+    {
+      "question": "รอยแผลเป็น",
+      "correct_answer": "nasty cut",
+      "incorrect_answers": [
+        "stiff"
+      ]
+    },
+    {
+      "question": "แข็งทื่อ",
+      "correct_answer": "stiff",
+      "incorrect_answers": [
+        "ache"
+      ]
+    },
+    {
+      "question": "เจ็บปวด",
+      "correct_answer": "ache",
+      "incorrect_answers": [
+        "injured"
+      ]
+    },
+    {
+      "question": "กล้ามเนื้อฉีกขาด",
+      "correct_answer": "strained a muscle",
+      "incorrect_answers": [
+        "pain"
+      ]
+    },
+    {
+      "question": "กินแล้วท้องปั่นป่วน",
+      "correct_answer": "eat something that didn't agree with someone",
+      "incorrect_answers": [
+        "bruised"
+      ]
+    },
+    {
+      "question": "บวมช้ำ",
+      "correct_answer": "bruised",
+      "incorrect_answers": [
+        "out of breath"
+      ]
+    },
+    {
+      "question": "เหนื่อยหอบ",
+      "correct_answer": "out of breath",
+      "incorrect_answers": [
+        "sore throat"
+      ]
+    },
+    {
+      "question": "เจ็บคอ",
+      "correct_answer": "sore throat",
+      "incorrect_answers": [
+        "allergic reaction"
+      ]
+    },
+    {
+      "question": "รังเกียจ",
+      "correct_answer": "mind",
+      "incorrect_answers": [
+        "miss"
+      ]
+    },
+    {
+      "question": "หลีกเลี่ยง",
+      "correct_answer": "avoid",
+      "incorrect_answers": [
+        "keep"
+      ]
+    },
+    {
+      "question": "จัดการ",
+      "correct_answer": "arrange",
+      "incorrect_answers": [
+        "agree"
+      ]
+    },
+    {
+      "question": "เสนอ",
+      "correct_answer": "offer",
+      "incorrect_answers": [
+        "refuse"
+      ]
+    },
+    {
+      "question": "ปฎิเสธ",
+      "correct_answer": "refuse",
+      "incorrect_answers": [
+        "need"
+      ]
+    },
+    {
+      "question": "อาการ",
+      "correct_answer": "symptom",
+      "incorrect_answers": [
+        "promise"
+      ]
+    },
+    {
+      "question": "ร่ำรวย",
+      "correct_answer": "wealthy",
+      "incorrect_answers": [
+        "wealth"
+      ]
+    },
+    {
+      "question": "ใจกว้าง",
+      "correct_answer": "generous",
+      "incorrect_answers": [
+        "statistics"
+      ]
+    },
+    {
+      "question": "สถิติ",
+      "correct_answer": "statistics",
+      "incorrect_answers": [
+        "earnings"
+      ]
+    },
+    {
+      "question": "รายได้",
+      "correct_answer": "earnings",
+      "incorrect_answers": [
+        "earn"
+      ]
+    },
+    {
+      "question": "หนี้สิน",
+      "correct_answer": "debt",
+      "incorrect_answers": [
+        "income"
+      ]
+    },
+    {
+      "question": "ให้ยืม",
+      "correct_answer": "lend",
+      "incorrect_answers": [
+        "borrow"
+      ]
+    },
+    {
+      "question": "เงืนเดือนรายปี",
+      "correct_answer": "annual salary",
+      "incorrect_answers": [
+        "income"
+      ]
+    },
+    {
+      "question": "เป็นหนี้",
+      "correct_answer": "owe",
+      "incorrect_answers": [
+        "afford"
+      ]
+    },
+    {
+      "question": "จ่ายราคา",
+      "correct_answer": "afford",
+      "incorrect_answers": [
+        "payment"
+      ]
+    },
+    {
+      "question": "ความร่ำรวย",
+      "correct_answer": "wealth",
+      "incorrect_answers": [
+        "expensive"
+      ]
+    },
+    {
+      "question": "ผู้ให้ยืม",
+      "correct_answer": "lender",
+      "incorrect_answers": [
+        "rate"
+      ]
+    },
+    {
+      "question": "สังคมไร้เงินสด",
+      "correct_answer": "cashless society",
+      "incorrect_answers": [
+        "bank account"
+      ]
+    },
+    {
+      "question": "ค่าตอบแทน ",
+      "correct_answer": "payment",
+      "incorrect_answers": [
+        "credit card"
+      ]
+    },
+    {
+      "question": "การตัดสินใจ",
+      "correct_answer": "decision",
+      "incorrect_answers": [
+        "based on"
+      ]
+    },
+    {
+      "question": "รถชน",
+      "correct_answer": "car crash",
+      "incorrect_answers": [
+        "delay"
+      ]
+    },
+    {
+      "question": "บริการซ่อมแซม",
+      "correct_answer": "breakdown service",
+      "incorrect_answers": [
+        "car park"
+      ]
+    },
+    {
+      "question": "อุบัติเหตุ",
+      "correct_answer": "accident",
+      "incorrect_answers": [
+        "fine"
+      ]
+    },
+    {
+      "question": "ค่าปรับ",
+      "correct_answer": "fine",
+      "incorrect_answers": [
+        "narrow"
+      ]
+    },
+    {
+      "question": "แคบ",
+      "correct_answer": "narrow",
+      "incorrect_answers": [
+        "trip"
+      ]
+    },
+    {
+      "question": "การเดินทางระยะสั้น",
+      "correct_answer": "trip",
+      "incorrect_answers": [
+        "narrow"
+      ]
+    },
+    {
+      "question": "ลา ",
+      "correct_answer": "donkey",
+      "incorrect_answers": [
+        "monkey"
+      ]
+    },
+    {
+      "question": "มีกำลังใจ",
+      "correct_answer": "encouraging",
+      "incorrect_answers": [
+        "thanks to"
+      ]
+    },
+    {
+      "question": "่เนื่องจาก",
+      "correct_answer": "thanks to",
+      "incorrect_answers": [
+        "encouraging"
+      ]
+    },
+    {
+      "question": "สถานที่ท่องเที่ยว",
+      "correct_answer": "tourist attraction",
+      "incorrect_answers": [
+        "tourist"
+      ]
+    },
+    {
+      "question": "นักปั่น",
+      "correct_answer": "cyclist",
+      "incorrect_answers": [
+        "driver"
+      ]
+    },
+    {
+      "question": "ดึงออกมา",
+      "correct_answer": "pulled out",
+      "incorrect_answers": [
+        "brake"
+      ]
+    },
+    {
+      "question": "ยางรถ",
+      "correct_answer": "tyre",
+      "incorrect_answers": [
+        "engine"
+      ]
+    },
+    {
+      "question": "หมวกกันน็อก",
+      "correct_answer": "helmet",
+      "incorrect_answers": [
+        "lorry driver"
+      ]
+    },
+    {
+      "question": "คนขับรถบรรทุก",
+      "correct_answer": "lorry driver",
+      "incorrect_answers": [
+        "cyclist"
+      ]
+    },
+    {
+      "question": "น่าอับอาย",
+      "correct_answer": "embarrassing",
+      "incorrect_answers": [
+        "scary"
+      ]
+    },
+    {
+      "question": "เข้มงวด",
+      "correct_answer": "strict",
+      "incorrect_answers": [
+        "bad luck"
+      ]
+    },
+    {
+      "question": "เก้าอี้ไฟฟ้า",
+      "correct_answer": "heated seat",
+      "incorrect_answers": [
+        "car seat"
+      ]
+    }
+  ]
+}

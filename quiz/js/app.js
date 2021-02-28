@@ -20,7 +20,7 @@ let currentQuestion = {};
 
 
 function getQuestion() {
-    return  fetch( 'js/questions.json')
+    return  fetch( 'js/fe.json')
         .then((res) => res.json())
         .then((loadQuestions) => {
             questions = loadQuestions.results.map((loadQuestion) => {
@@ -28,10 +28,9 @@ function getQuestion() {
                     question: loadQuestion.question
                 };
 
-                const answerChoices = [...loadQuestion.incorrect];
+                const answerChoices = [...loadQuestion.incorrect_answers];
                 formatQuestion.answer = Math.floor(Math.random() * 2) + 1;
-                answerChoices.splice(formatQuestion.answer-1, 0, loadQuestion.correct);
-                
+                answerChoices.splice(formatQuestion.answer-1, 0, loadQuestion.correct_answer);
                 answerChoices.forEach((choice, index) => {
                     formatQuestion['choice' + (index+1)] = choice;
                 });
@@ -65,15 +64,16 @@ const questionIndex = Math.floor(Math.random() * questionLimit);
 function getNewQuestion(){
     
     questionNumber.innerHTML = "Question " + (questionCounter + 1) + " of " + questionLimit;
-    
+
+    const questionIndex = Math.floor(Math.random() * questionLimit);
     currentQuestion = availableQuestions[questionIndex];
-    console.log(currentQuestion);
+    //console.log(currentQuestion);
     questionText.innerHTML = currentQuestion.question;
 
     optionContainer.innerHTML = null;
 
     let animationDelay = 0.15
-    const totalChoice = 4;
+    const totalChoice = 2;
     for (let i=0; i<totalChoice; i++) {
         const option = document.createElement("div");
         option.className = "option";
