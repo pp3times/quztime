@@ -1,0 +1,285 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "question": "พอดีเป๊ะ",
+        "correct_answer": "exact",
+        "incorrect_answers": [
+          "install"
+        ]
+      },
+      {
+        "question": "เปลี่ยนยางแบน",
+        "correct_answer": "to replace a flat tyre",
+        "incorrect_answers": [
+          "to assess the damage"
+        ]
+      },
+      {
+        "question": "ประเมินความเสียหาย",
+        "correct_answer": "to assess the damage",
+        "incorrect_answers": [
+          "to assess one's finess"
+        ]
+      },
+      {
+        "question": "ทดสอบสมรรถภาพร่างกาย",
+        "correct_answer": "to assess one's finess",
+        "incorrect_answers": [
+          "to assess one's strengths and weaknesses"
+        ]
+      },
+      {
+        "question": "ประเมิณจุดแข็งและจุดอ่อน",
+        "correct_answer": "to assess one's strengths and weaknesses",
+        "incorrect_answers": [
+          "to fix a pipe"
+        ]
+      },
+      {
+        "question": "ซ่อมท่อน้ำ",
+        "correct_answer": "to fix pipe",
+        "incorrect_answers": [
+          "to replace one's passport"
+        ]
+      },
+      {
+        "question": "ซ่อมเฟืองท้ายรถ",
+        "correct_answer": "to fix the gears on one's car",
+        "incorrect_answers": [
+          "to fix a broken light"
+        ]
+      },
+      {
+        "question": "ทำเล็บ",
+        "correct_answer": "to do one's nails",
+        "incorrect_answers": [
+          "to do one's hair"
+        ]
+      },
+      {
+        "question": "ดูอาการบาดเจ็บ",
+        "correct_answer": "to look at the injury",
+        "incorrect_answers": [
+          "to look at what's causing it"
+        ]
+      },
+      {
+        "question": "ดูสิ่งที่ก่อเหตุ",
+        "correct_answer": "to look at what's causing it",
+        "incorrect_answers": [
+          "to do one's hair"
+        ]
+      },
+      {
+        "question": "ใช้เวลา",
+        "correct_answer": "spend time",
+        "incorrect_answers": [
+          "on time"
+        ]
+      },
+      {
+        "question": "พาดหัวข้อ",
+        "correct_answer": "headline news",
+        "incorrect_answers": [
+          "business"
+        ]
+      },
+      {
+        "question": "สิ่งแวดล้อม",
+        "correct_answer": "environment",
+        "incorrect_answers": [
+          "opinion"
+        ]
+      },
+      {
+        "question": "ความคิดเห็น",
+        "correct_answer": "opinion",
+        "incorrect_answers": [
+          "polities"
+        ]
+      },
+      {
+        "question": "การเมือง",
+        "correct_answer": "polities",
+        "incorrect_answers": [
+          "เหี้ยตู่"
+        ]
+      },
+      {
+        "question": "กำไร",
+        "correct_answer": "profit",
+        "incorrect_answers": [
+          "drop"
+        ]
+      },
+      {
+        "question": "ลดลง",
+        "correct_answer": "drop",
+        "incorrect_answers": [
+          "pilot"
+        ]
+      },
+      {
+        "question": "นัดกันหยุดงาน",
+        "correct_answer": "to go on strike",
+        "incorrect_answers": [
+          "peace"
+        ]
+      },
+      {
+        "question": "ความสงบ",
+        "correct_answer": "peace",
+        "incorrect_answers": [
+          "claim"
+        ]
+      },
+      {
+        "question": "การพัฒนา",
+        "correct_answer": "breakthrough",
+        "incorrect_answers": [
+          "process"
+        ]
+      },
+      {
+        "question": "อ้าง",
+        "correct_answer": "claim",
+        "incorrect_answers": [
+          "hit"
+        ]
+      },
+      {
+        "question": "การบำบัด",
+        "correct_answer": "treatment",
+        "incorrect_answers": [
+          "injury"
+        ]
+      },
+      {
+        "question": "อาการบาดเจ็บ",
+        "correct_answer": "injury",
+        "incorrect_answers": [
+          "chance"
+        ]
+      },
+      {
+        "question": "โอกาส",
+        "correct_answer": "chance",
+        "incorrect_answers": [
+          "scandal"
+        ]
+      },
+      {
+        "question": "เรื่องอื้อฉาว",
+        "correct_answer": "scandal",
+        "incorrect_answers": [
+          "hit"
+        ]
+      },
+      {
+        "question": "โจมตี",
+        "correct_answer": "hit",
+        "incorrect_answers": [
+          "government"
+        ]
+      },
+      {
+        "question": "หวังดีเสมอ",
+        "correct_answer": "to hit the team's hopes",
+        "incorrect_answers": [
+          "found guilty of "
+        ]
+      },
+      {
+        "question": "ตัดสินมีความผิด",
+        "correct_answer": "found guilty of ",
+        "incorrect_answers": [
+          "to decide a sentence"
+        ]
+      },
+      {
+        "question": "ตัดสินจำคุก",
+        "correct_answer": "to decide a sentence",
+        "incorrect_answers": [
+          "union"
+        ]
+      },
+      {
+        "question": "สหภาพแรงงาน",
+        "correct_answer": "union",
+        "incorrect_answers": [
+          "staff"
+        ]
+      },
+      {
+        "question": "กำจัด",
+        "correct_answer": "to get rid of",
+        "incorrect_answers": [
+          "to keep out of "
+        ]
+      },
+      {
+        "question": "แนะนำ",
+        "correct_answer": "advised",
+        "incorrect_answers": [
+          "president"
+        ]
+      },
+      {
+        "question": "ถอยออกห่าง",
+        "correct_answer": "to keep out of",
+        "incorrect_answers": [
+          "move on"
+        ]
+      },
+      {
+        "question": "ยารักษาโรค",
+        "correct_answer": "drug",
+        "incorrect_answers": [
+          "disease"
+        ]
+      },
+      {
+        "question": "โรคภัย",
+        "correct_answer": "disease",
+        "incorrect_answers": [
+          "outright"
+        ]
+      },
+      {
+        "question": "ทันที",
+        "correct_answer": "outright",
+        "incorrect_answers": [
+          "weather"
+        ]
+      },
+      {
+        "question": "ซีด",
+        "correct_answer": "pale",
+        "incorrect_answers": [
+          "nasty cut"
+        ]
+      },
+      {
+        "question": "รอยแผลเป็น",
+        "correct_answer": "nasty cut",
+        "incorrect_answers": [
+          "stiff"
+        ]
+      },
+      {
+        "question": "แข็งทื่อ",
+        "correct_answer": "stiff",
+        "incorrect_answers": [
+          "ache"
+        ]
+      },
+      {
+        "question": "เจ็บปวด",
+        "correct_answer": "ache",
+        "incorrect_answers": [
+          "injured"
+        ]
+      }
+    ]
+}

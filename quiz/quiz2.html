@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Quiz App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+	<div class="home-box custom-box">
+		<h1>FOUNDATION ENGLISH 2 PART 2</h1>
+		<h3>Details : select the best answer</h3>
+		<h3>Creator : neng </h3>
+		<h3><i class="fab fa-instagram">  :</i>
+		<a href="https://www.instagram.com/neng_api/" target="_blank" style="text-decoration: none; margin-left: .2em;">neng_api</a></h3>
+		<p>Total number of questions : <span class="total-question">40</span></p>
+		<button type="button" class="btn" onclick="startQuiz()">Start Quiz</button>
+	</div>
+	<div class="quiz-box custom-box hide">
+		<div class="question-number">
+			<!-- Question 1 of 5 -->
+		</div>
+		<div class="question-text">
+			<!-- What month is Poom's birthday?
+			( เดือนไหนเดือนเกิดน้องภูมิ ) -->
+		</div>
+		<div class="option-container">
+		<!-- 	<div class="option" data-number="3"></div>
+			<div class="option" data-number="4"></div> -->
+		</div>
+		<div class="next-button">
+			<button type="button" class="btn" onclick="next()">Next</button>
+		</div>
+		<div class="answers-indicator">
+			<!-- <div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div> -->
+		</div>
+	</div>
+	<div class="result-box custom-box hide">
+		<h1>Quiz Result</h1>
+		<table>
+			<tr>
+				<td>Total Question</td>
+				<td><span class="total-question"></span></td>
+			</tr>
+			<tr>
+				<td>Attempt</td>
+				<td><span class="total-attempt"></span></td>
+			</tr>
+			<tr>
+				<td>Correct</td>
+				<td><span class="total-correct"></span></td>
+			</tr>
+			<tr>
+				<td>Wrong</td>
+				<td><span class="total-wrong"></span></td>
+			</tr>
+			<tr>
+				<td>Percentage</td>
+				<td><span class="percentage"></span></td>
+			</tr>
+			<tr>
+				<td>Your Total Score</td>
+				<td><span class="total-score"></span></td>
+			</tr>
+		</table>
+		<button type="button" class="btn" onclick="tryAgainQuiz()">Try Again</button>
+		<button type="button" class="btn" onclick="goToHome()">Go to home</button>
+	</div>
+<script src="js/app2.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+</body>
+</html>
+
+

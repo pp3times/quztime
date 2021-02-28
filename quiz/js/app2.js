@@ -20,7 +20,7 @@ let currentQuestion = {};
 
 
 
-fetch( 'js/fe.json')
+fetch( 'js/fe2.json')
     .then((res) => res.json())
     .then((loadQuestions) => {
         questions = loadQuestions.results.map((loadQuestion) => {

@@ -1,0 +1,285 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "question": "น่าเบื่อ",
+        "correct_answer": "dull",
+        "incorrect_answers": [
+          "hilarious"
+        ]
+      },
+      {
+        "question": "ตลกมาก ๆ",
+        "correct_answer": "hilarious",
+        "incorrect_answers": [
+          "dull"
+        ]
+      },
+      {
+        "question": "คู่",
+        "correct_answer": "couple",
+        "incorrect_answers": [
+          "useless"
+        ]
+      },
+      {
+        "question": "ไร้ประโยชน์",
+        "correct_answer": "useless",
+        "incorrect_answers": [
+          "couple"
+        ]
+      },
+      {
+        "question": "กำจัดออก",
+        "correct_answer": "killed off",
+        "incorrect_answers": [
+          "voted off"
+        ]
+      },
+      {
+        "question": "ปลดออก",
+        "correct_answer": "voted off",
+        "incorrect_answers": [
+          "killed off"
+        ]
+      },
+      {
+        "question": "เป็นสาวก",
+        "correct_answer": "to be a fan of",
+        "incorrect_answers": [
+          "to be in tears"
+        ]
+      },
+      {
+        "question": "น้ำตาคลอ",
+        "correct_answer": "to be in tears",
+        "incorrect_answers": [
+          "interviewed"
+        ]
+      },
+      {
+        "question": "ตึงเครียด",
+        "correct_answer": "tense",
+        "incorrect_answers": [
+          "compete"
+        ]
+      },
+      {
+        "question": "นำไปสู่",
+        "correct_answer": "leading to ",
+        "incorrect_answers": [
+          "amazing"
+        ]
+      },
+      {
+        "question": "ปริมาณ",
+        "correct_answer": "quantity",
+        "incorrect_answers": [
+          "quality"
+        ]
+      },
+      {
+        "question": "ความหลากหลาย",
+        "correct_answer": "variety",
+        "incorrect_answers": [
+          "different"
+        ]
+      },
+      {
+        "question": "เสนอเพื่อให้พิจารณา",
+        "correct_answer": "to be on offer",
+        "incorrect_answers": [
+          "professional"
+        ]
+      },
+      {
+        "question": "ดึงดูด",
+        "correct_answer": "attracted",
+        "incorrect_answers": [
+          "previously"
+        ]
+      },
+      {
+        "question": "ชักชวน",
+        "correct_answer": "persuaded",
+        "incorrect_answers": [
+          "because"
+        ]
+      },
+      {
+        "question": "โอกาส",
+        "correct_answer": "opportunity",
+        "incorrect_answers": [
+          "to be on offer"
+        ]
+      },
+      {
+        "question": "ไว้วางใจ",
+        "correct_answer": "relied on",
+        "incorrect_answers": [
+          "medical"
+        ]
+      },
+      {
+        "question": "แบ่งออกเป็น",
+        "correct_answer": "cut up into",
+        "incorrect_answers": [
+          "section"
+        ]
+      },
+      {
+        "question": "หยิบ",
+        "correct_answer": "to pick up",
+        "incorrect_answers": [
+          "explain"
+        ]
+      },
+      {
+        "question": "ทดลอง",
+        "correct_answer": "experiment",
+        "incorrect_answers": [
+          "complex"
+        ]
+      },
+      {
+        "question": "ซับซ้อน",
+        "correct_answer": "complex",
+        "incorrect_answers": [
+          "expect"
+        ]
+      },
+      {
+        "question": "สารคดี",
+        "correct_answer": "documentary",
+        "incorrect_answers": [
+          "technology"
+        ]
+      },
+      {
+        "question": "อย่างเห็นได้ชัด",
+        "correct_answer": "apparently",
+        "incorrect_answers": [
+          "survey"
+        ]
+      },
+      {
+        "question": "มีผล",
+        "correct_answer": "influence",
+        "incorrect_answers": [
+          "research"
+        ]
+      },
+      {
+        "question": "อย่างเพิ่มขี้น",
+        "correct_answer": "increasingly",
+        "incorrect_answers": [
+          "affecting"
+        ]
+      },
+      {
+        "question": "ต่ำกว่า",
+        "correct_answer": "below",
+        "incorrect_answers": [
+          "personally"
+        ]
+      },
+      {
+        "question": "สำรับ",
+        "correct_answer": "recipe",
+        "incorrect_answers": [
+          "fixed"
+        ]
+      },
+      {
+        "question": "มีแนวโน้ม",
+        "correct_answer": "tend",
+        "incorrect_answers": [
+          "awful"
+        ]
+      },
+      {
+        "question": "บางที",
+        "correct_answer": "perhaps",
+        "incorrect_answers": [
+          "middle"
+        ]
+      },
+      {
+        "question": "พิจารณา",
+        "correct_answer": "consider",
+        "incorrect_answers": [
+          "surprising"
+        ]
+      },
+      {
+        "question": "เพิ่มขี้น",
+        "correct_answer": "going up",
+        "incorrect_answers": [
+          "trend"
+        ]
+      },
+      {
+        "question": "คำแนะนำ",
+        "correct_answer": "recommendation",
+        "incorrect_answers": [
+          "consider"
+        ]
+      },
+      {
+        "question": "ช่างทำผม",
+        "correct_answer": "hairdresser",
+        "incorrect_answers": [
+          "mechanic"
+        ]
+      },
+      {
+        "question": "ข่างกล",
+        "correct_answer": "mechanic",
+        "incorrect_answers": [
+          "cleaner"
+        ]
+      },
+      {
+        "question": "ตรงเวลา",
+        "correct_answer": "on time",
+        "incorrect_answers": [
+          "mess"
+        ]
+      },
+      {
+        "question": "สิ่งสกปรก",
+        "correct_answer": "mess",
+        "incorrect_answers": [
+          "efficient"
+        ]
+      },
+      {
+        "question": "ซึ่งมีประสิทธิภาพ",
+        "correct_answer": "efficient",
+        "incorrect_answers": [
+          "reasonable"
+        ]
+      },
+      {
+        "question": "สมเหตุสมผล",
+        "correct_answer": "reasonable",
+        "incorrect_answers": [
+          "convenient"
+        ]
+      },
+      {
+        "question": "สะดวก",
+        "correct_answer": "convenient",
+        "incorrect_answers": [
+          "trust"
+        ]
+      },
+      {
+        "question": "เชื่อถือได้",
+        "correct_answer": "reliable",
+        "incorrect_answers": [
+          "exact"
+        ]
+      }
+    ]
+}

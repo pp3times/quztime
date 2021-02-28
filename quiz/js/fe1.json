@@ -1,0 +1,306 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "question": "กล้ามเนื้อฉีกขาด",
+      "correct_answer": "strained a muscle",
+      "incorrect_answers": [
+        "pain"
+      ]
+    },
+    {
+      "question": "กินแล้วท้องปั่นป่วน",
+      "correct_answer": "eat something that didn't agree with someone",
+      "incorrect_answers": [
+        "bruised"
+      ]
+    },
+    {
+      "question": "บวมช้ำ",
+      "correct_answer": "bruised",
+      "incorrect_answers": [
+        "out of breath"
+      ]
+    },
+    {
+      "question": "เหนื่อยหอบ",
+      "correct_answer": "out of breath",
+      "incorrect_answers": [
+        "sore throat"
+      ]
+    },
+    {
+      "question": "เจ็บคอ",
+      "correct_answer": "sore throat",
+      "incorrect_answers": [
+        "allergic reaction"
+      ]
+    },
+    {
+      "question": "รังเกียจ",
+      "correct_answer": "mind",
+      "incorrect_answers": [
+        "miss"
+      ]
+    },
+    {
+      "question": "หลีกเลี่ยง",
+      "correct_answer": "avoid",
+      "incorrect_answers": [
+        "keep"
+      ]
+    },
+    {
+      "question": "จัดการ",
+      "correct_answer": "arrange",
+      "incorrect_answers": [
+        "agree"
+      ]
+    },
+    {
+      "question": "เสนอ",
+      "correct_answer": "offer",
+      "incorrect_answers": [
+        "refuse"
+      ]
+    },
+    {
+      "question": "ปฎิเสธ",
+      "correct_answer": "refuse",
+      "incorrect_answers": [
+        "need"
+      ]
+    },
+    {
+      "question": "อาการ",
+      "correct_answer": "symptom",
+      "incorrect_answers": [
+        "promise"
+      ]
+    },
+    {
+      "question": "ร่ำรวย",
+      "correct_answer": "wealthy",
+      "incorrect_answers": [
+        "wealth"
+      ]
+    },
+    {
+      "question": "ใจกว้าง",
+      "correct_answer": "generous",
+      "incorrect_answers": [
+        "statistics"
+      ]
+    },
+    {
+      "question": "สถิติ",
+      "correct_answer": "statistics",
+      "incorrect_answers": [
+        "earning"
+      ]
+    },
+    {
+      "question": "รายได้",
+      "correct_answer": "earning",
+      "incorrect_answers": [
+        "debt"
+      ]
+    },
+    {
+      "question": "หนี้สิน",
+      "correct_answer": "debt",
+      "incorrect_answers": [
+        "income"
+      ]
+    },
+    {
+      "question": "ให้ยืม",
+      "correct_answer": "lend",
+      "incorrect_answers": [
+        "borrow"
+      ]
+    },
+    {
+      "question": "เงืนเดือนรายปี",
+      "correct_answer": "annual salary",
+      "incorrect_answers": [
+        "income"
+      ]
+    },
+    {
+      "question": "เป็นหนี้",
+      "correct_answer": "owe",
+      "incorrect_answers": [
+        "afford"
+      ]
+    },
+    {
+      "question": "จ่ายราคา",
+      "correct_answer": "afford",
+      "incorrect_answers": [
+        "payment"
+      ]
+    },
+    {
+      "question": "ความร่ำรวย",
+      "correct_answer": "wealth",
+      "incorrect_answers": [
+        "expensive"
+      ]
+    },
+    {
+      "question": "ผู้ให้ยืม",
+      "correct_answer": "lender",
+      "incorrect_answers": [
+        "rate"
+      ]
+    },
+    {
+      "question": "สังคมไร้เงินสด",
+      "correct_answer": "cashless society",
+      "incorrect_answers": [
+        "bank account"
+      ]
+    },
+    {
+      "question": "ค่าตอบแทน ",
+      "correct_answer": "payment",
+      "incorrect_answers": [
+        "credit card"
+      ]
+    },
+    {
+      "question": "การตัดสินใจ",
+      "correct_answer": "decision",
+      "incorrect_answers": [
+        "based on"
+      ]
+    },
+    {
+      "question": "รถชน",
+      "correct_answer": "car crash",
+      "incorrect_answers": [
+        "delay"
+      ]
+    },
+    {
+      "question": "บริการซ่อมแซม",
+      "correct_answer": "breakdown service",
+      "incorrect_answers": [
+        "car park"
+      ]
+    },
+    {
+      "question": "อุบัติเหตุ",
+      "correct_answer": "accident",
+      "incorrect_answers": [
+        "fine"
+      ]
+    },
+    {
+      "question": "ค่าปรับ",
+      "correct_answer": "fine",
+      "incorrect_answers": [
+        "narrow"
+      ]
+    },
+    {
+      "question": "แคบ",
+      "correct_answer": "narrow",
+      "incorrect_answers": [
+        "trip"
+      ]
+    },
+    {
+      "question": "การเดินทางระยะสั้น",
+      "correct_answer": "trip",
+      "incorrect_answers": [
+        "narrow"
+      ]
+    },
+    {
+      "question": "ลา ",
+      "correct_answer": "donkey",
+      "incorrect_answers": [
+        "monkey"
+      ]
+    },
+    {
+      "question": "มีกำลังใจ",
+      "correct_answer": "encouraging",
+      "incorrect_answers": [
+        "thanks to"
+      ]
+    },
+    {
+      "question": "เนื่องจาก",
+      "correct_answer": "thanks to",
+      "incorrect_answers": [
+        "encouraging"
+      ]
+    },
+    {
+      "question": "สถานที่ท่องเที่ยว",
+      "correct_answer": "tourist attraction",
+      "incorrect_answers": [
+        "tourist"
+      ]
+    },
+    {
+      "question": "นักปั่น",
+      "correct_answer": "cyclist",
+      "incorrect_answers": [
+        "driver"
+      ]
+    },
+    {
+      "question": "ดึงออกมา",
+      "correct_answer": "pulled out",
+      "incorrect_answers": [
+        "brake"
+      ]
+    },
+    {
+      "question": "ยางรถ",
+      "correct_answer": "tyre",
+      "incorrect_answers": [
+        "engine"
+      ]
+    },
+    {
+      "question": "หมวกกันน็อก",
+      "correct_answer": "helmet",
+      "incorrect_answers": [
+        "lorry driver"
+      ]
+    },
+    {
+      "question": "คนขับรถบรรทุก",
+      "correct_answer": "lorry driver",
+      "incorrect_answers": [
+        "cyclist"
+      ]
+    },
+    {
+      "question": "น่าอับอาย",
+      "correct_answer": "embarrassing",
+      "incorrect_answers": [
+        "scary"
+      ]
+    },
+    {
+      "question": "เข้มงวด",
+      "correct_answer": "strict",
+      "incorrect_answers": [
+        "bad luck"
+      ]
+    },
+    {
+      "question": "เก้าอี้ไฟฟ้า",
+      "correct_answer": "heated seat",
+      "incorrect_answers": [
+        "car seat"
+      ]
+    }
+  ]
+}
