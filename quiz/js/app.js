@@ -19,39 +19,38 @@ let questionCounter = 0;
 let currentQuestion = {};
 
 
-function getQuestion() {
-    return  fetch( 'js/fe.json')
-        .then((res) => res.json())
-        .then((loadQuestions) => {
-            questions = loadQuestions.results.map((loadQuestion) => {
-                const formatQuestion = {
-                    question: loadQuestion.question
-                };
 
-                const answerChoices = [...loadQuestion.incorrect_answers];
-                formatQuestion.answer = Math.floor(Math.random() * 2) + 1;
-                answerChoices.splice(formatQuestion.answer-1, 0, loadQuestion.correct_answer);
-                answerChoices.forEach((choice, index) => {
-                    formatQuestion['choice' + (index+1)] = choice;
-                });
+fetch( 'js/fe.json')
+    .then((res) => res.json())
+    .then((loadQuestions) => {
+        questions = loadQuestions.results.map((loadQuestion) => {
+            const formatQuestion = {
+                question: loadQuestion.question
+            };
 
-                return formatQuestion;
-            })
+            const answerChoices = [...loadQuestion.incorrect_answers];
+            formatQuestion.answer = Math.floor(Math.random() * 2) + 1;
+            answerChoices.splice(formatQuestion.answer-1, 0, loadQuestion.correct_answer);
+            answerChoices.forEach((choice, index) => {
+                formatQuestion['choice' + (index+1)] = choice;
+            });
 
-            return questions;
+            return formatQuestion;
         })
-        .catch((error) => {
-            console.error(error);
-        })
-}
 
-async function startQuiz(){
+        startQuiz();
+    })
+    .catch((error) => {
+        console.error(error);
+    })
+
+
+function startQuiz(){
 
     homeBox.classList.add("hide");
     quizBox.classList.remove("hide");
 
-    const useQuestion = await getQuestion();
-    availableQuestions = [...useQuestion];
+    availableQuestions = [...questions];
 
     questionLimit = availableQuestions.length;
 
@@ -60,7 +59,6 @@ async function startQuiz(){
     answersIndicator();
 }
 
-const questionIndex = Math.floor(Math.random() * questionLimit);
 function getNewQuestion(){
     
     questionNumber.innerHTML = "Question " + (questionCounter + 1) + " of " + questionLimit;

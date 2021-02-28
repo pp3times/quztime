@@ -353,7 +353,7 @@
     },
     {
       "question": "ใช้เวลา",
-      "correct_answer": "spend",
+      "correct_answer": "spend time",
       "incorrect_answers": [
         "on time"
       ]
@@ -516,12 +516,12 @@
       "question": "ยารักษาโรค",
       "correct_answer": "drug",
       "incorrect_answers": [
-        "discase"
+        "disease"
       ]
     },
     {
       "question": "โรคภัย",
-      "correct_answer": "discase",
+      "correct_answer": "disease",
       "incorrect_answers": [
         "outright"
       ]
@@ -793,7 +793,7 @@
       ]
     },
     {
-      "question": "่เนื่องจาก",
+      "question": "เนื่องจาก",
       "correct_answer": "thanks to",
       "incorrect_answers": [
         "encouraging"
